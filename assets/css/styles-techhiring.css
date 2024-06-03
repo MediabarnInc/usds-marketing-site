@@ -1,0 +1,36 @@
+
+
+
+.grid-row.grid-gap, main .grid-container {max-width:1080px; margin:50px auto;}
+.margin20 {margin-top:20px;}
+.clr-dark {color:#212529;}
+
+
+
+
+main {background-color:#fff;}
+
+.usa-hero {background-image:url('/assets/img/herobg-techhire.png'); background-color:#1d5392;}
+.usa-hero>.grid-container {margin-top:0;}
+.usa-hero__callout {max-width:40rem}
+.usa-hero__heading, .usa-hero__callout p {max-inline-size:fit-content;}
+
+ul.usa-card-group {margin:20px 0 !important;}
+ul.usa-card-group .usa-card__container {margin:0;}
+ul.usa-card-group .usa-card {padding:0;}
+
+
+:is(h3, h4, h5, h6, dt) {max-inline-size:100%;}
+.usa-prose>h2 {margin-bottom:20px;}
+
+.usa-logo {font-size:2.3rem;}
+.usa-graphic-list .usa-media-block__img {max-width:100px; filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(-167deg) brightness(118%) contrast(119%);}
+
+.timeline-dates li {width:40%; margin-right:5%;}
+.timeline-dates .usa-card__media {max-height:100px}
+.timeline-dates .usa-card__img {background:transparent; padding:0; width:70px;}
+
+
+
+.techhire-pagestructure {margin:0 auto; padding:0; max-width:1080px;}
+h2.usa-in-page-nav__heading {color:#666;}
