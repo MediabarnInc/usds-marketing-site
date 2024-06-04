@@ -3,13 +3,17 @@
 .margin20 {margin-top:20px;}
 .clr-dark {color:#212529;}
 
+.brand-logo {width:50px; float:left: position:relative; top:-6px;}
 
 main {background-color:#fff;}
 main section {margin:50px 0;}
 
+a, a:visited {color:#005ea2;}
+a:hover {text-decoration:underline;}
+
 .usa-hero {background-image:url('/assets/img/herobg-techhire.png'); background-color:#1d5392;}
 .usa-hero>.grid-container {margin-top:0;}
-.usa-hero__callout {max-width:40rem}
+.usa-hero__callout {max-width:50rem}
 .usa-hero__heading, .usa-hero__callout p {max-inline-size:fit-content;}
 
 ul.usa-card-group {margin:20px 0 !important;}
@@ -23,11 +27,11 @@ ul.usa-card-group .usa-card {padding:0;}
 .usa-prose>h2 {margin-bottom:40px;}
 
 .usa-logo {font-size:2.3rem;}
-.usa-graphic-list .usa-media-block__img {max-width:100px; filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(-167deg) brightness(118%) contrast(119%);}
+.usa-graphic-list .usa-media-block__img {max-width:100px; filter:invert(48%) sepia(79%) saturate(2476%) hue-rotate(-167deg) brightness(118%) contrast(119%);}
 
 .timeline-dates li {width:40%; margin-right:5%;}
 .timeline-dates .usa-card__media {max-height:100px}
-.timeline-dates .usa-card__img {background:transparent; padding:0; width:70px;}
+.timeline-dates .usa-card__img {background:transparent; padding:0; width:70px;  filter:invert(48%) sepia(79%) saturate(2476%) hue-rotate(-167deg) brightness(118%) contrast(119%);}
 
 .usa-summary-box__heading {padding-top:0;}
 
