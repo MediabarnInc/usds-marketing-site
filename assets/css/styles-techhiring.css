@@ -16,7 +16,7 @@ ul.usa-card-group {margin:20px 0 !important;}
 ul.usa-card-group .usa-card__container {margin:0;}
 ul.usa-card-group .usa-card {padding:0;}
 
-.boxed {border:1px solid #eee; background:#fff; padding:40px 20px !important; margin:50px 0; margin-bottom:0; box-shadow:2px 2px 10px #eee;}
+.boxed {border:1px solid #eee; border-radius:10px; background:#fff; padding:40px 20px !important; margin:50px 0; margin-bottom:0; box-shadow:2px 2px 10px #eee;}
 .boxed .grid-row.grid-gap {margin-left:-15px;}
 
 :is(h3, h4, h5, h6, dt) {max-inline-size:100%;}
