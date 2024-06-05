@@ -1,4 +1,4 @@
-# THIA Tutorial
+# THIA: Tech Hiring Training
 
 ## Requirements
 
